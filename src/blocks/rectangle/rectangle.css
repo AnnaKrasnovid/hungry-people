@@ -1,0 +1,16 @@
+.rectangle {
+    width: 59.19px;
+    height: 5px;
+    background: #E8C300;
+    border-radius: 50px;    
+    display: flex;
+    margin: 0 auto 0;  
+     
+}
+
+@media screen and (max-width: 767px) {
+    .rectangle {
+        height: 3px;
+        width: 30px;
+    }
+}

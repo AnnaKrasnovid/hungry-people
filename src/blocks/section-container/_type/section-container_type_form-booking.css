@@ -1,0 +1,17 @@
+.section-container_type_form-booking {
+    grid-template-columns: minmax(150px, 564px)  minmax(100px, 475px);
+    background-color: #ffffff; 
+    gap: 73px;
+}
+
+@media screen and (max-width: 1023px) {
+    .section-container_type_form-booking {
+        gap: 40px;
+    }
+}
+
+@media screen and (max-width: 930px) {
+    .section-container_type_form-booking {
+        grid-template-columns: minmax(200px, 800px);
+    }
+}

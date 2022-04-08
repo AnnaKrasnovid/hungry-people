@@ -1,0 +1,13 @@
+.menu {
+    align-items: center;
+    padding: 97px 0 82px;   
+    min-height: 720px; 
+}
+
+@media screen and (max-width: 424px) {
+    .menu {
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+}
+

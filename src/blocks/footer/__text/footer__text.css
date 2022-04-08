@@ -1,0 +1,9 @@
+.footer__text {
+    font-size: 12px;
+    line-height: 12px;       
+    border-radius: 5px;
+    font-weight: 400;
+    margin: 0;
+    padding: 45px 0;
+    color: rgba(255, 255, 255, 0.5);
+}

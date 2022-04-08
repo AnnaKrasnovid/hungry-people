@@ -1,0 +1,24 @@
+.section-container__img {
+    width: 100%;
+    filter: drop-shadow(0px 0px 50px rgba(0, 0, 0, 0.5));
+    border-radius: 5px;
+    transition: transform 0.4s ease-in;  
+    margin: auto;
+}
+
+.section-container__img:hover {
+    transform: scale(1.02);    
+}
+
+@media screen and (max-width: 1024px) {
+    .section-container__img {
+        filter: drop-shadow(0px 0px 20px rgba(0, 0, 0, 0.5));
+    }
+}
+
+@media screen and (max-width: 930px) {
+    .section-container__img_off {
+        display: none;
+    }
+}
+

@@ -1,0 +1,18 @@
+.section-container {    
+    display: grid;
+    gap: 80px;
+}
+
+@media screen and (max-width: 1024px) {
+    .section-container {
+        max-width: 1024px;
+        width: 89%;
+        margin: auto;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .section-container {
+        gap: 40px;
+    }
+}

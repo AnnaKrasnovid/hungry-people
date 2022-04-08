@@ -1,0 +1,20 @@
+@font-face {
+    font-family: "Open Sans";
+    src: url(./open-sans.bold.woff) format("woff"),
+         url(./open-sans.bold.woff2) format("woff2");
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: "Open Sans";
+    src: url(./open-sans.regular.woff) format("woff"),
+         url(./open-sans.regular.woff2) format("woff2");
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "Helvetica Neue";
+    src: url(./HelveticaNeue.woff) format("woff"),
+         url(./HelveticaNeue.woff2) format("woff2");
+    font-weight: 400;
+}

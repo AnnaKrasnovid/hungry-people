@@ -1,0 +1,19 @@
+.team {
+    background: url(../../image/teamBg.jpg);
+    padding: 0 94px 100px; 
+    align-items: flex-end;
+}
+
+@media screen and (max-width: 1024px) {
+    .team {
+        padding-right: 0;
+        padding-left: 0;
+        padding-bottom: 80px;
+    }
+}
+
+@media screen and (max-width: 424px) {
+    .team {
+        padding-bottom: 40px;
+    }
+}

@@ -1,0 +1,116 @@
+@import url(../vendor/normalize.css);
+@import url(../vendor/fonts/fonts.css);
+@import url(../blocks/root/root.css);
+@import url(../blocks/page/page.css);
+
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__nav/header__nav.css);
+@import url(../blocks/header/__nav-container/header__nav-container.css);
+@import url(../blocks/header/__nav-link/header__nav-link.css);
+@import url(../blocks/header/__img/header__img.css);
+@import url(../blocks/header/__container/header__container.css);
+@import url(../blocks/header/__info/header__info.css);
+@import url(../blocks/header/__subtitle/header__subtitle.css);
+@import url(../blocks/header/__title/header__title.css);
+@import url(../blocks/header/__operating-mode/header__operating-mode.css);
+
+@import url(../blocks/social-buttons/social-buttons.css);
+@import url(../blocks/social-buttons/__icon/social-buttons__icon.css);
+@import url(../blocks/social-buttons/__link/social-buttons__link.css);
+
+@import url(../blocks/about/about.css);
+
+@import url(../blocks/section-light/section-light.css);
+@import url(../blocks/section-light/__info/section-light__info.css);
+@import url(../blocks/section-light/__info/_type/section-light__info_type_bold.css);
+
+@import url(../blocks/text-container/text-container.css);
+@import url(../blocks/title/title.css);
+@import url(../blocks/subtitle/subtitle.css);
+
+@import url(../blocks/section-container/section-container.css);
+@import url(../blocks/section-container/_theme/section-container_theme_dark.css);
+@import url(../blocks/section-container/_theme/section-container_theme_light.css);
+@import url(../blocks/section-container/_type/section-container_type_form-booking.css);
+@import url(../blocks/section-container/_type/section-container_type_two-img.css);
+@import url(../blocks/section-container/__img/section-container__img.css);
+
+@import url(../blocks/text/text.css);
+
+@import url(../blocks/team/team.css);
+
+@import url(../blocks/section-dark/section-dark.css);
+@import url(../blocks/section-dark/__name/section-dark__name.css);
+
+@import url(../blocks/text-container/text-container.css);
+@import url(../blocks/booking/booking.css);
+
+@import url(../blocks/form/form.css);
+@import url(../blocks/form/__box/form__box.css);
+@import url(../blocks/form/__container/form__container.css);
+@import url(../blocks/form/__container/_type/form__container_type_booking.css);
+@import url(../blocks/form/__container/_type/form__container_type_contact.css);
+@import url(../blocks/form/__error/form__error.css);
+@import url(../blocks/form/__input/form__input.css);
+@import url(../blocks/form/__input/_state/form__input_state_invalid.css);
+@import url(../blocks/form/__input/_type/form__input_type_date.css);
+@import url(../blocks/form/__input/_type/form__input_type_people.css);
+@import url(../blocks/form/__textarea/form__textarea.css);
+@import url(../blocks/form/_type/form_type_booking.css);
+@import url(../blocks/form/_type/form_type_contact.css);
+
+@import url(../blocks/container-info/container-info.css);
+
+@import url(../blocks/specialties/specialties.css);
+@import url(../blocks/section-dark/__name/section-dark__name.css);
+
+@import url(../blocks/menu/menu.css);
+@import url(../blocks/menu/__button/menu__button.css);
+@import url(../blocks/menu/__button/_border/menu__button_border_right.css);
+@import url(../blocks/menu/__button/_active/menu__button_active.css);
+@import url(../blocks/menu/__button-nav/menu__button-nav.css);
+@import url(../blocks/menu/__content/menu__content.css);
+@import url(../blocks/menu/__dishs/menu__dishs.css);
+@import url(../blocks/menu/__dishs/_active/menu__dishs_active.css);
+@import url(../blocks/menu/__currency/menu__currency.css);
+
+@import url(../blocks/events/events.css);
+
+@import url(../blocks/contact/contact.css);
+@import url(../blocks/contact/__address/contact__address.css);
+@import url(../blocks/contact/__container/contact__container.css);
+@import url(../blocks/contact/__info/contact__info.css);
+
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__text/footer__text.css);
+
+@import url(../blocks/popup/popup.css);
+@import url(../blocks/popup/__close/popup__close.css);
+@import url(../blocks/popup/__content/popup__content.css);
+@import url(../blocks/popup/__title/popup__title.css);
+@import url(../blocks/popup/_opened/popup_opened.css);
+
+@import url(../blocks/icon-up/icon-up.css);
+
+@import url(../blocks/menu/__item/menu__item.css);
+@import url(../blocks/menu/__point/menu__point.css);
+@import url(../blocks/menu/__title/menu__title.css);
+@import url(../blocks/menu/__description/menu__description.css);
+@import url(../blocks/menu/__point-style/menu__point-style.css);
+@import url(../blocks/menu/__price/menu__price.css);
+@import url(../blocks/menu/__cost/menu__cost.css);
+
+@import url(../blocks/rectangle/rectangle.css);
+@import url(../blocks/rectangle/_type/rectangle_type_info.css);
+@import url(../blocks/rectangle/_type/rectangle_type_theme.css);
+
+@import url(../blocks/rotation/rotation.css);
+
+@import url(../blocks/button/button.css);
+@import url(../blocks/button-container/button-container.css);
+@import url(../blocks/button/_disabled/button_disabled.css);
+@import url(../blocks/button/_type/button_type_form.css);
+@import url(../blocks/button/_type/button_type_grey.css);
+
+@import url(../blocks/hover-button/hover-button.css);
+

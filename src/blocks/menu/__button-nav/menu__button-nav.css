@@ -1,0 +1,19 @@
+.menu__button-nav {
+    list-style: none;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 18px;   
+    max-width: 840px;
+    display: grid;
+    grid-template-columns: repeat(7, minmax(min-content, 120px));
+    margin: 42px 0 33px; 
+    padding: 0;
+}
+
+@media screen and (max-width: 424px) {
+    .menu__button-nav {
+       margin-top: 30px;
+       margin-bottom: 30px;
+       font-size: 10px;
+    }
+}

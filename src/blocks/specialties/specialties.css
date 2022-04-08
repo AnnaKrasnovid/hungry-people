@@ -1,0 +1,19 @@
+.specialties {
+    background: url(../../image/specialtysBg.jpg);
+    padding: 0 81px 100px;
+    align-items: flex-end;
+}
+
+@media screen and (max-width: 1024px) {
+    .specialties {
+        padding-right: 0;
+        padding-left: 0;
+        padding-bottom: 80px;
+    }
+}
+
+@media screen and (max-width: 424px) {
+    .specialties {
+        padding-bottom: 40px;
+    }
+}

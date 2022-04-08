@@ -1,0 +1,31 @@
+.header__title {   
+    font-family: "Helvetica Neue";
+    font-weight: 400;
+    font-size: 96px;
+    margin: 13px 0 13px;
+    
+}
+
+@media screen and (max-width: 1279px) {
+    .header__title {
+        font-size: 76px;
+    }
+  }
+
+@media screen and (max-width: 1023px) {
+    .header__title {
+        font-size: 56px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .header__title {
+        font-size: 36px;
+    }
+}
+
+@media screen and (max-width: 424px) {
+    .header__title {
+        font-size: 26px;
+    }
+}

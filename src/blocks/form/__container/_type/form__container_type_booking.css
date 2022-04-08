@@ -1,0 +1,10 @@
+.form__container_type_booking {
+    grid-template-columns: repeat(2, 1fr);
+    padding: 20px 0 0;
+}
+
+@media screen and (max-width: 500px) {
+    .form__container_type_booking {
+        grid-template-columns: 1fr; 
+    }
+}

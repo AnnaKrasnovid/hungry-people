@@ -1,0 +1,13 @@
+.menu__button_active {
+    font-size: 15px;
+    letter-spacing: 5px;
+    font-weight: 700;
+}
+
+@media screen and (max-width: 424px) {
+    .menu__button_active {
+        letter-spacing: normal;
+        padding: 10px 2px;
+        font-size: 12px;
+    }
+}

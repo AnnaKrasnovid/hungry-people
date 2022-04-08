@@ -1,0 +1,52 @@
+.header__operating-mode {
+    position: absolute;
+    top: 445px;
+    left: -35px;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 1;    
+    color: #FFFFFF;
+    transform: rotate(-90deg);
+    margin: 0;
+    text-transform: none;
+    letter-spacing: 0.2px;       
+}
+
+@media screen and (max-width: 1279px) {
+    .header__operating-mode {
+        top: 395px;
+        left: -55px;
+    }
+}
+
+@media screen and (max-width: 1023px) {
+    .header__operating-mode {
+        top: 295px;
+        left: -85px;
+        font-size: 12px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .header__operating-mode {
+        transform: none ;
+        position: static;    
+        margin-bottom: 20px;
+        text-align: center;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .header__operating-mode {
+        display: none;
+    }
+}
+
+
+
+
+
+
+
+
+

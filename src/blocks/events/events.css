@@ -1,0 +1,19 @@
+.events {
+    background: url(../../image/specialtysBg.jpg);
+    align-items: center;
+    padding: 0 100px 100px;
+}  
+
+@media screen and (max-width: 1024px) {
+    .events {
+        padding-left: 0;
+        padding-right: 0;
+        padding-bottom: 80px;
+    }
+}
+
+@media screen and (max-width: 424px) {
+    .events {
+        padding-bottom: 40px;
+    }
+}

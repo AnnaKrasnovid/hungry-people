@@ -1,0 +1,15 @@
+.menu__title {
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 18px;
+    text-transform: uppercase;
+    margin: 0 5px 0 0;
+    font-family: "Helvetica Neue";
+    font-weight: 400;
+}
+
+@media screen and (max-width: 767px) {
+    .menu__title {      
+        font-size: 14px;
+    }
+}

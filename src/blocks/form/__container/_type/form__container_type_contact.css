@@ -1,0 +1,11 @@
+.form__container_type_contact {
+    grid-template-columns: repeat(3, 1fr);  
+    padding: 47px 0 10px;     
+}
+
+@media screen and (max-width: 767px) {
+    .form__container_type_contact {
+        grid-template-columns: 1fr;
+        padding-top: 20px;
+    }
+}

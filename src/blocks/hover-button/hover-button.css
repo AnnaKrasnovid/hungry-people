@@ -1,0 +1,4 @@
+.hover-button:hover {
+    box-shadow: 0 0 10px #000000;
+    transform: scale(1.03);
+}

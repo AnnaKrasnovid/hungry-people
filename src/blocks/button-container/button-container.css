@@ -1,0 +1,22 @@
+.button-container {
+    display: grid;
+    grid-template-columns: 200px 200px;
+    gap: 40px;
+    justify-items: center;
+    padding: 30px;
+}
+
+@media screen and (max-width: 767px) {
+    .button-container {
+        gap: 20px;
+        grid-template-columns: 150px 150px;
+    }
+}
+
+@media screen and (max-width: 374px) {
+    .button-container {
+        grid-template-columns: 100px 100px;
+        padding: 15px;
+    }
+}
+

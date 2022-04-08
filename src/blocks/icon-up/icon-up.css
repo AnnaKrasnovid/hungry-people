@@ -1,0 +1,22 @@
+.icon-up {
+    background: rgba(0, 0, 0, 0.7) url(../../image/up.svg);
+    width: 50px;
+    height: 50px;
+    background-size: 20px 20px;          
+    background-repeat: no-repeat;
+    display: flex;          
+    background-position: center;
+    position: fixed;
+    bottom: 68px;
+    right:50px;         
+    cursor: pointer;
+    border-radius: 60px;
+    /*border: 1px;
+    border-color: white;*/
+    border: solid  1px rgba(255, 255, 255, 0.7);     
+    display: none;   
+}
+
+.icon-up_active {
+    display: block;
+}

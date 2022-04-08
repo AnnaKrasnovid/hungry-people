@@ -1,0 +1,4 @@
+.form__input_state_invalid {
+    border-width: 2px;
+    border-color: red;
+}

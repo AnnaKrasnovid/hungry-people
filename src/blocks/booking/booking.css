@@ -1,0 +1,17 @@
+.booking {
+    padding: 100px 135px 0;
+}
+
+@media screen and (max-width: 1024px) {
+    .booking {
+        padding-top: 80px;
+        padding-left: 0;
+        padding-right: 0;
+    }
+}
+
+@media screen and (max-width: 424px) {
+    .booking {
+        padding-top: 40px;
+    }
+}

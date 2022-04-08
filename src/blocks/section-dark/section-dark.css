@@ -1,0 +1,8 @@
+.section-dark {
+    display: flex;
+    flex-direction: column;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}

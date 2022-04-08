@@ -1,0 +1,39 @@
+.header {       
+    display: flex;
+    background-image: url(../../image/headerBg.png);
+    max-width: 1440px;
+    color: #FFFFFF;
+    flex-direction: column;
+    margin: auto;
+    position: relative;
+    align-items: center;
+    text-transform: uppercase;
+    font-family: 'Open Sans';
+    padding-bottom: 194px;   
+}
+
+@media screen and (max-width: 1150px) {
+    .header {
+        padding-bottom: 135px;
+    }
+}
+
+@media screen and (max-width: 1023px) {
+    .header {
+        padding-bottom: 130px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .header {
+        padding-bottom: 50px;
+    }
+}
+
+@media screen and (max-width: 535px) {
+    .header {
+        padding-bottom: 40px;
+    }
+}
+
+

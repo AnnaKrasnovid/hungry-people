@@ -1,0 +1,4 @@
+.form__container {
+    display: grid;    
+    column-gap: 10px;    
+}

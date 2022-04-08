@@ -1,0 +1,12 @@
+.form_type_booking {
+    max-width: 564px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;  
+}
+
+@media screen and (max-width: 930px) {
+    .form_type_booking {
+        max-width: 800px;
+    }
+}

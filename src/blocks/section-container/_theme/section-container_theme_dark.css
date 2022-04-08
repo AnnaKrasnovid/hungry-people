@@ -1,0 +1,10 @@
+.section-container_theme_dark {   
+    grid-template-columns: minmax(100px, 475px) minmax(200px, 600px);
+    color: #ffffff;    
+}
+
+@media screen and (max-width: 767px) {
+    .section-container_theme_dark {
+        grid-template-columns: minmax(200px, 600px);
+    }
+}

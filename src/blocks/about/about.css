@@ -1,0 +1,15 @@
+.about {
+    padding: 100px 81px;         
+}
+
+@media screen and (max-width: 1024px) {
+    .about{      
+        padding: 80px 0;
+    }
+}
+
+@media screen and (max-width: 424px) {
+    .about{      
+        padding: 40px 0;
+    }
+}

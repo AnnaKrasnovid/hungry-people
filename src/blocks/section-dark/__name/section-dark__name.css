@@ -1,0 +1,17 @@
+.section-dark__name {
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 1.17;    
+    text-align: center;
+    letter-spacing: 0.5em;
+    text-transform: uppercase;
+    padding: 45px 0 41px;
+    margin: 0 auto;
+    color: #ffffff;    
+}
+
+@media screen and (max-width: 424px) {
+    .section-dark__name {
+        padding: 25px 0;
+    }
+}
