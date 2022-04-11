@@ -26,4 +26,22 @@ Pet projects
 * Webpack
 * PerfectPixel 
 
+## Инструкция по установке:
+Клонируем репозиторий:  
+```
+git clone https://github.com/AnnaKrasnovid/hungry-people
+```  
+Переходим в папку проекта:  
+```
+cd hungry-people
+```  
+Устанавливаем пакет зависимостей и webpack:  
+```
+npm i webpack --save-dev
+```  
+Запускаем проект на локальном сервере:  
+```
+npm run dev
+```  
+
 #### [Ссылка на макет Figma](https://www.figma.com/file/99VWS9wLtcNpWYAvWWbNwo/Hunger---Website-Template?node-id=0%3A1)
