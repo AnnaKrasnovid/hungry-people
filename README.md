@@ -44,4 +44,8 @@ npm i webpack --save-dev
 npm run dev
 ```  
 
+## Планы по доработке:
+* Написать валидацию даты и времени в секции booking
+* Доделать верстку иконок в инпутах
+
 #### [Ссылка на макет Figma](https://www.figma.com/file/99VWS9wLtcNpWYAvWWbNwo/Hunger---Website-Template?node-id=0%3A1)
