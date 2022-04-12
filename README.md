@@ -39,7 +39,7 @@ cd hungry-people
 ```
 npm i webpack --save-dev
 ```  
-Запускаем проект на локальном сервере:  
+Запускаем проект на компьютере:  
 ```
 npm run dev
 ```  
